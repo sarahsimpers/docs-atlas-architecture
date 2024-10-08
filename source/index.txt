@@ -1,3 +1,5 @@
+:noprevnext:
+
 =========================
 {+atlas-arch-center+}
 =========================
@@ -11,7 +13,7 @@ platform in {+service+}. While the :atlas:`{+service+} documentation
 configurations you should use to optimize governance, security,
 automation, and more.
 
-The {+atlas-arch-center+}'s content aligns with the {+wef+} pillars:
+The {+atlas-arch-center+}'s content aligns with the {+waf+} pillars:
 
 .. image:: /includes/images/landing-image.png
    :alt: "An image representing MongoDB Atlas supported by the Atlas Well-Architected Framework pillars."
@@ -29,6 +31,21 @@ The {+atlas-arch-center+}'s content aligns with the {+wef+} pillars:
   without over-provisioning.
 - **Cost Optimization**: Visibility and cost management while
   maintaining performance.
+
+.. kicker:: Next Steps
+
+Get Started with the {+atlas-arch-center+}
+--------------------------------------------------
+
+Explore the following getting started resources or use the left navigation to find features and best practices for each pillar.
+
+- :ref:`Landing Zone Design <arch-center-landing-zone>`: Learn how to
+  define a landing zone for your organization.
+- :ref:`Migration <arch-center-migration>`: Make a plan to move your
+  existing data into {+service+}.
+- :ref:`Orgs, Projects, and Deployments <arch-center-hierarchy>`:
+  Set up the foundational {+service+} components.
+
 
 .. toctree::
    :titlesonly:
