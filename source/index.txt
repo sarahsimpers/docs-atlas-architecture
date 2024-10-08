@@ -4,7 +4,31 @@
 
 .. default-domain:: mongodb
 
-Landing page content
+The {+atlas-arch-center+} documents the best way to build a robust data
+platform in {+service+}. While the :atlas:`{+service+} documentation 
+</>` provides information about how to use {+service+}, the 
+{+atlas-arch-center+} gives recommendations on the exact 
+configurations you should use to optimize governance, security,
+automation, and more.
+
+The {+atlas-arch-center+}'s content aligns with the {+wef+} pillars:
+
+.. image:: /includes/images/landing-image.png
+   :alt: "An image representing MongoDB Atlas supported by the Atlas Well-Architected Framework pillars."
+   :width: 500px
+   :align: center
+
+
+- **Operational Efficiency**: Automation, monitoring, and observability
+  that enhance efficiency.
+- **Security**: Network settings, access control, and more to
+  safeguard data integrity and privacy.
+- **Reliability**: High availability, backups, and more
+  to minimize downtime and prevent data loss.
+- **Performance**: Automatic scaling to adjust to increased demand
+  without over-provisioning.
+- **Cost Optimization**: Visibility and cost management while
+  maintaining performance.
 
 .. toctree::
    :titlesonly:
