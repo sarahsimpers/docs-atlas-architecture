@@ -27,8 +27,8 @@ The {+atlas-arch-center+}'s content aligns with the {+waf+} pillars:
   safeguard data integrity and privacy.
 - **Reliability**: High availability, backups, and more
   to minimize downtime and prevent data loss.
-- **Performance**: Distribution of data across multiple machines for
-  high throughput operations.
+- **Performance**: Auto-scaling and sharding to meet increased demand
+  without over-provisioning.
 - **Cost Optimization**: Visibility and cost management while
   maintaining performance.
 
